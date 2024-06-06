@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="welcome page.css">
+</head>
+<body>
+
+<header>
+    <h2>WELCOME TO OUR WEBSITE</h2><br>
+    <h3>♥ Sign Language Facilitator ♥</h3>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="login.html">Login</a></li>
+    </ul>
+</nav>
+
+<main>
+    <section>
+        <h1><i>"𝗦𝗶𝗴𝗻 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗶𝘀 𝘁𝗵𝗲 𝗻𝗼𝗯𝗹𝗲𝘀𝘁 𝗴𝗶𝗳𝘁 𝗚𝗼𝗱 𝗵𝗮𝘀 𝗴𝗶𝘃𝗲𝗻 𝘁𝗼 𝘁𝗵𝗲 𝗱𝗲𝗮𝗳,𝗱𝘂𝗺𝗯 𝗽𝗲𝗼𝗽𝗹𝗲"</i></h1><br><br>
+    </section>
+    <section>
+        <img src="pic.png" alt="Sign language"><br>
+        <h3>Features</h3><br>
+        <i>    Here you can translate sign language easily.<br>    These sign language translator ensure effective and accurate <br>    communication by translating spoken language into sign and vice versa.</i>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2024 Your Website. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
